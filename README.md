@@ -1,5 +1,5 @@
 # Sputnik
-Sputnik-Beeper<br />
+A Sputnik-Beeper Circuit as seen on Numberphile<br />
 
 <b>Waiting for initial commit!</b><br />
 
